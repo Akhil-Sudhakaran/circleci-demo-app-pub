@@ -1,6 +1,6 @@
 <?php
 
-echo "Akhil1";
+echo "Akhil";
 $AppName = "Updated Demo App";
 
 ob_start();
